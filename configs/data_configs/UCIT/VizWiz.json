@@ -1,0 +1,6 @@
+{
+  "train_path": "./datasets/UCIT/instructions/VizWiz/train.json",
+  "test_path": "./datasets/UCIT/instructions/VizWiz/test_3000.json",
+  "anno_path": "./datasets/UCIT/instructions/VizWiz/val_coco_type_3000.json",
+  "image_folder": "./datasets/UCIT/datasets"
+}

@@ -1,8 +1,10 @@
 # EBLoRA
 
-Official implementation of **"Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation"**.
+This is the official implementation of our paper **["Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation"](https://icml.cc/virtual/2026/poster/61996)**.
 
-EBLoRA is a continual low-rank adaptation method for multimodal large language models (MLLMs). This repository contains our LLaVA-1.5 based training and evaluation code, together with the scripts used in our experiments on the UCIT and MLLM-DCL benchmarks.
+Our paper was presented as an **ICML 2026 Poster**.
+
+EBLoRA is a continual learning method for vision-language models (VLMs). This repository contains our LLaVA-1.5 based training and evaluation code, together with the scripts used in our experiments on the UCIT and MLLM-DCL benchmarks.
 
 ## Highlights
 
@@ -168,11 +170,11 @@ We thank the original authors for making their code and datasets available.
 If you find this repository useful, please cite our paper:
 
 ```bibtex
-@misc{eblora,
+@inproceedings{gu2026spectral,
   title={Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation},
-  author={Anonymous},
+  author={Gu, Hao and Luo, Mao-Lin and Zhou, Zi-Hao and Zhang, Han-Chen and Zhang, Min-Ling and Wei, Tong},
+  booktitle={International Conference on Machine Learning (ICML)},
   year={2026}
 }
 ```
 
-We will update the citation entry once the final publication metadata is available.

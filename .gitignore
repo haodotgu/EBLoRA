@@ -10,16 +10,6 @@ llava.egg-info/
 plot
 plot/
 
-scripts/
-configs/
-
-train_task1_transfer.sh
-train_task1.sh
-eval_task1.sh
-wait_4gpu_cmd.sh
-wait_4gpu_sh.sh
-
-
 .DS_Store
 *.pt
 *.bin

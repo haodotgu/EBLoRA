@@ -1,0 +1,5 @@
+{
+  "train_path": "./datasets/UCIT/instructions/IconQA/train.json",
+  "test_path": "./datasets/UCIT/instructions/IconQA/test_3000.json",
+  "image_folder": "./datasets/UCIT/datasets"
+}

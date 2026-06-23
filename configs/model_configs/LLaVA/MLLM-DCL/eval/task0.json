@@ -1,0 +1,5 @@
+{
+  "gpu_num": 2,
+  "stage": "LoRA-task1",
+  "model_path": "./models/llava-v1.5-7b"
+}

@@ -1,0 +1,5 @@
+{
+  "train_path": "./datasets/Domain_data/AD/train.json",
+  "test_path": "./datasets/Domain_data/AD/test.json",
+  "image_folder": "./datasets/Domain_data/AD"
+}
