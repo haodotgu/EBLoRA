@@ -1,4 +1,4 @@
-# EBLoRA
+# EBLoRA: Energy-balanced Low-rank Adaptation
 
 This is the official implementation of our paper **["Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation"](https://icml.cc/virtual/2026/poster/61996)**.
 
@@ -154,16 +154,6 @@ The default task order in `scripts/Train_UCIT/train_all.sh` is:
 ## Evaluation
 
 The training pipelines already invoke benchmark-specific evaluation scripts after each task. You can also run them manually from `scripts/Eval_MLLM_DCL/` and `scripts/Eval_UCIT/` if you want to re-evaluate existing checkpoints.
-
-## Acknowledgements
-
-This repository is built upon the following excellent projects:
-
-- [LLaVA](https://github.com/haotian-liu/LLaVA)
-- [HiDe-LLaVA / UCIT](https://github.com/Ghy0501/HiDe-LLaVA)
-- [MLLM-CL / MLLM-DCL](https://github.com/bjzhb666/MLLM-CL)
-
-We thank the original authors for making their code and datasets available.
 
 ## Citation
 
